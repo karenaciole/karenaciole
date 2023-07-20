@@ -12,12 +12,3 @@
 ![](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
 ![](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 <div align=center>Feel free to look <i>(or contribute)</i> foward the projects that i've worked and still working on. </div>
-<br>
-<div align=center> 
-  <b>You can contact me at</b> 
-  <br>
-  
-![https://www.linkedin.com/in/karen-aciole/](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)
-![mailto:karen.alves@ccc.ufcg.edu.br](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)
-
-</div>

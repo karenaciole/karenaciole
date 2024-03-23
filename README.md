@@ -1,19 +1,12 @@
-<div align=center>Hey yo! I'm <b>Karen</b>, an undergraduate Computer Science student @ UFCG who is still discovering my main focus in this vast world of technology. (: </div>
-<br>
-<div align=center> 🛠️ Some of the <b>tech stacks</b> that i'm most familiar with: 
-<br><br>
+### About me 👀
+Hi, I'm **Karen**. I'm a computer science student at UFCG 🇧🇷.
 
-![](https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white)
-![](https://img.shields.io/badge/JUnit5-25A162.svg?style=for-the-badge&logo=JUnit5&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
-![](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
+Most of my experience is with **backend development**, specifically in Java (w/ Spring Boot) and Python (w/ Flask).
 
+### Work Experience 💼
+- I've had professional experience with data analysis and machine learning in an R&D project **@** Percepção Computacional Lab/UFCG; 
+- I also spent six months in an internship developing an application for the Brazilian government using Java and Kafka, and worked with the BI team to fix data mapping in Oracle's database and improve the visualization of a dashboard, creating metrics and charts using a javascript framework **@** Dataprev.
 
-![](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
-![](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
-![](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+### Learning 🌱
 
-</div>
-
-<div align=center>Feel free to look <i>(or contribute)</i> foward the projects that i've worked and still working on. </div>
+These days I'm learning more about **cloud computing** and a bit about **frontend** technologies.
